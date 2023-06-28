@@ -1,0 +1,18 @@
+*
+{
+	font-size:115%;
+}
+
+body
+{
+	background-color:lavender;
+	color:teal;
+}
+
+.nav { background-color:black; }
+.nav a { color:lavender; text-decoration:None; margin:10%; }
+
+input[type="submit"] {
+  background-color: lavender;
+  color: teal; 
+}
